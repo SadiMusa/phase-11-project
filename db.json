@@ -1,4 +1,6 @@
-
+    {
+     "menu": [
+    {
       "id": "1",
       "title": "Classic Burger",
       "price": 9.99,
