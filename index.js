@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
     getMenu();
 });
 
+let menu = [];
 
 function getMenu() {
     fetch("http://localhost:3000/menu")
