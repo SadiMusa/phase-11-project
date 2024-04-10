@@ -7,7 +7,6 @@ A simple web application for displaying a restaurant menu with features like ite
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -20,12 +19,6 @@ A simple web application for displaying a restaurant menu with features like ite
 This project provides a straightforward interface to showcase a restaurant menu. Users can explore menu items, view details, make purchases, and express their liking for items.
 
 ## Getting Started
-
-### Prerequisites
-
-- Node.js installed
-- npm (Node Package Manager) installed
-
 ### Installation
 
 1. **Clone the repository:**
